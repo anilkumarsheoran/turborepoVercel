@@ -1,3 +1,4 @@
+/* eslint-disable turbo/no-undeclared-env-vars */
 import { Button } from "ui";
 
 export default function Web() {
